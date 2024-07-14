@@ -1,0 +1,14 @@
+!table
+!version 300
+!charset WindowsCyrillic
+
+
+
+Definition table
+File "D:\Downloads\мусор\денис\Для конвертера в ТАБ\Для конвертера в ТАБ\Растр 1\Растр 1.jpg"
+Type "RASTER"
+(1662260,99881467, 395222,230871804)(0, 0) Label "Point 1"
+(395222,230871804, 1662490,37774537)(10469, 0) Label "Point 2"
+(394988,798535604, 1662490,37774537)(10469, 10654) Label "Point 3"
+CoordSys NonEarth Units "m"
+Units "m"

@@ -1,0 +1,15 @@
+D:\projects5\World2TabMaker2\World2TabMaker2\bin\Debug\World2TabMaker2.exe.config
+D:\projects5\World2TabMaker2\World2TabMaker2\bin\Debug\World2TabMaker2.exe
+D:\projects5\World2TabMaker2\World2TabMaker2\bin\Debug\World2TabMaker2.pdb
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\MainWindow.g.cs
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\App.g.cs
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\World2TabMaker2_MarkupCompile.cache
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\World2TabMaker2_MarkupCompile.lref
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\MainWindow.baml
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\World2TabMaker2.g.resources
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\World2TabMaker2.Properties.Resources.resources
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\World2TabMaker2.csproj.GenerateResource.cache
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\World2TabMaker2.csproj.CoreCompileInputs.cache
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\World2TabMaker2.exe
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\World2TabMaker2.pdb
+D:\projects5\World2TabMaker2\World2TabMaker2\obj\Debug\World2TabMaker2.csproj.AssemblyReference.cache
